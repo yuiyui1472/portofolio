@@ -65,6 +65,9 @@ span{
 }
 
 /*works*/
+.layout .work ul img{
+    margin-bottom: 8px;
+}
 .layout{
     padding: 100px 0 80px 0;
     background-color: lemonchiffon;
